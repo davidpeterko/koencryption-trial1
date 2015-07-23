@@ -65,7 +65,6 @@ public class KoEncryption{
 		return permutation_words;
 	}
 
-	
-	//to be continued with better ideas	
+	//convert the permutation_words into ascii values, and do something with that	
 
 }
